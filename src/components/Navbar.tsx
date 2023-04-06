@@ -3,7 +3,7 @@ const Navbar = () => {
     <nav className="h-[100px]">
       <div className="flex justify-around items-center h-full">
         <div className="flex items-center">
-          <h1 className="font-[Telma]">Glamour girls</h1>
+          <h1 className="font-[Telma] font-bold text-3xl">Hue</h1>
         </div>
         <div className="bg-[#D9D9D9AD] rounded-[40px] py-4 px-12">
           <ul className="flex gap-10 text-[#5e3516de]">
@@ -14,7 +14,7 @@ const Navbar = () => {
               <a href="#">Categories</a>
             </li>
             <li>
-              <a href="#">Galm girls</a>
+              <a href="#">Hue Models</a>
             </li>
             <li>
               <a href="#">Careers</a>
